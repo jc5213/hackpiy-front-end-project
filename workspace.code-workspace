@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\freecode camp"
+		},
+		{
+			"path": "..\\sec8"
+		},
+		{
+			"path": "..\\sec9"
+		},
+		{
+			"path": "..\\CALCULATOR"
+		},
+		{
+			"path": "..\\sec10"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\day18"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hackpiy front end project"
+	}
+}
